@@ -2,8 +2,8 @@
 
 Simple Flask API used for a CI/CD + security checks demo.
 
-[![CI](https://github.com/USERNAME/REPO/actions/workflows/ci.yml/badge.svg)](https://github.com/USERNAME/REPO/actions)
-[![CodeQL](https://github.com/USERNAME/REPO/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/USERNAME/REPO/actions)
+[![CI](https://github.com/Bhandarynidhi/Devops/actions/workflows/ci.yml/badge.svg)](https://github.com/Bhandarynidhi/Devops/actions)
+[![CodeQL](https://github.com/Bhandarynidhi/Devops/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/Bhandarynidhi/Devops/actions)
 
 ## Run locally
 1. python -m venv .venv
